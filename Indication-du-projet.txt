@@ -1,12 +1,14 @@
-Sallut monsieur ceci indique la structutation de mon travail.
- 
+KABRE ABDOUL AZIZ
+
+Monsieur ceci indique la structutation de mon travail.
 
  Mon projet contient deux partie 
 
 1. Le dossier backend contient mon  backend écrite avec Node.js
 2. Le dossier trontend contient mon front-end réalisé avec React
 
+la Base de donner égalementajouter
 
 je join le lien github suivant ou vous trouverez le projet et bien d'autre projet que j'ai realisé au paravant.
 
-lien :
+lien : https://github.com/kabreaziz60/projet-tech-web-S4.git
